@@ -5,7 +5,8 @@
 		"email": "magna.Sed.eu@eget.ca",
 		"birthday": "07/29/1994",
 		"address": "588-6242 Sapien, Street",
-		"geolocation": "47.68042, -44.5549"
+		"geolocation": "47.68042, -44.5549",
+        "type":"client"
 	},
 	{
 		"name": "Kaitlin O. Sykes",
@@ -13,7 +14,8 @@
 		"email": "quis.tristique@Integersem.net",
 		"birthday": "05/29/1994",
 		"address": "5527 Erat Ave",
-		"geolocation": "4.13458, -106.58354"
+		"geolocation": "4.13458, -106.58354",
+        "type":"client"
 	},
 	{
 		"name": "Miriam Benjamin",
@@ -21,7 +23,8 @@
 		"email": "dolor.nonummy.ac@etpede.com",
 		"birthday": "08/28/1995",
 		"address": "P.O. Box 478, 591 Mauris Rd.",
-		"geolocation": "55.55646, -0.67309"
+		"geolocation": "55.55646, -0.67309",
+        "type":"client"
 	},
 	{
 		"name": "Sharon Kirk",
@@ -29,7 +32,8 @@
 		"email": "risus.Donec@placeratCras.ca",
 		"birthday": "12/31/1999",
 		"address": "P.O. Box 716, 4585 Rutrum. Av.",
-		"geolocation": "83.84638, -70.13028"
+		"geolocation": "83.84638, -70.13028",
+        "type":"client"
 	},
 	{
 		"name": "Callum N. Francis",
@@ -37,7 +41,8 @@
 		"email": "libero.at@sedpedenec.com",
 		"birthday": "12/05/1993",
 		"address": "P.O. Box 348, 6888 Non, Rd.",
-		"geolocation": "45.61536, -26.2337"
+		"geolocation": "45.61536, -26.2337",
+        "type":"client"
 	},
 	{
 		"name": "Merrill Leon",
@@ -45,7 +50,8 @@
 		"email": "molestie@nequesed.com",
 		"birthday": "03/02/1997",
 		"address": "848-5449 Scelerisque Rd.",
-		"geolocation": "77.23982, -18.75418"
+		"geolocation": "77.23982, -18.75418",
+        "type":"client"
 	},
 	{
 		"name": "Alexander Walters",
@@ -53,7 +59,8 @@
 		"email": "nec@felisorciadipiscing.org",
 		"birthday": "06/06/1990",
 		"address": "358-2862 Urna Av.",
-		"geolocation": "-43.73499, -57.28323"
+		"geolocation": "-43.73499, -57.28323",
+        "type":"client"
 	},
 	{
 		"name": "Kasper Huber",
@@ -61,7 +68,8 @@
 		"email": "lorem.eu.metus@natoquepenatibus.co.uk",
 		"birthday": "07/22/1995",
 		"address": "2566 Mauris Street",
-		"geolocation": "83.63351, 11.09283"
+		"geolocation": "83.63351, 11.09283",
+        "type":"client"
 	},
 	{
 		"name": "Sage K. Cohen",
@@ -69,7 +77,8 @@
 		"email": "elit.dictum.eu@scelerisquesedsapien.ca",
 		"birthday": "03/02/1992",
 		"address": "8733 Hendrerit Avenue",
-		"geolocation": "27.61454, 71.11008"
+		"geolocation": "27.61454, 71.11008",
+        "type":"client"
 	},
 	{
 		"name": "Lael L. Parsons",
@@ -77,7 +86,8 @@
 		"email": "a@dictumPhasellus.ca",
 		"birthday": "07/14/1993",
 		"address": "8272 Ipsum Street",
-		"geolocation": "-12.01096, -62.78404"
+		"geolocation": "-12.01096, -62.78404",
+        "type":"client"
 	},
 	{
 		"name": "Timon N. Merrill",
@@ -85,7 +95,8 @@
 		"email": "morbi.tristique.senectus@ametanteVivamus.net",
 		"birthday": "10/16/1998",
 		"address": "Ap #856-2656 Quisque Rd.",
-		"geolocation": "66.20424, 156.61337"
+		"geolocation": "66.20424, 156.61337",
+        "type":"client"
 	},
 	{
 		"name": "Sierra N. Jennings",
@@ -93,7 +104,8 @@
 		"email": "vitae.diam@loremtristique.edu",
 		"birthday": "12/04/1994",
 		"address": "6745 Et Ave",
-		"geolocation": "58.7737, 24.74701"
+		"geolocation": "58.7737, 24.74701",
+        "type":"client"
 	},
 	{
 		"name": "Asher Z. Mitchell",
@@ -101,7 +113,8 @@
 		"email": "primis.in@musProinvel.edu",
 		"birthday": "07/09/1995",
 		"address": "Ap #511-260 Elit Avenue",
-		"geolocation": "-13.4147, -160.74595"
+		"geolocation": "-13.4147, -160.74595",
+        "type":"client"
 	},
 	{
 		"name": "Zane Hayes",
@@ -109,7 +122,8 @@
 		"email": "Proin.eget@urnaconvallis.com",
 		"birthday": "02/17/1990",
 		"address": "Ap #305-9565 Pharetra St.",
-		"geolocation": "10.92391, 121.38078"
+		"geolocation": "10.92391, 121.38078",
+        "type":"client"
 	},
 	{
 		"name": "Bernard Morton",
@@ -117,7 +131,8 @@
 		"email": "ridiculus.mus.Aenean@PhasellusornareFusce.ca",
 		"birthday": "02/08/1996",
 		"address": "340 Mauris Road",
-		"geolocation": "-84.82463, -155.92724"
+		"geolocation": "-84.82463, -155.92724",
+        "type":"client"
 	},
 	{
 		"name": "Demetria F. Mccullough",
@@ -125,7 +140,8 @@
 		"email": "orci@Phasellus.co.uk",
 		"birthday": "08/01/1993",
 		"address": "P.O. Box 356, 8979 Proin Rd.",
-		"geolocation": "-83.06189, -142.80558"
+		"geolocation": "-83.06189, -142.80558",
+        "type":"client"
 	},
 	{
 		"name": "Liberty I. King",
@@ -133,7 +149,8 @@
 		"email": "neque@blanditcongue.com",
 		"birthday": "07/29/1999",
 		"address": "P.O. Box 145, 5742 Aliquam St.",
-		"geolocation": "45.9074, -111.03198"
+		"geolocation": "45.9074, -111.03198",
+        "type":"client"
 	},
 	{
 		"name": "Kalia Huber",
@@ -141,7 +158,8 @@
 		"email": "Phasellus@vehiculaetrutrum.net",
 		"birthday": "04/30/1993",
 		"address": "151-9684 Cras St.",
-		"geolocation": "36.36528, -165.92268"
+		"geolocation": "36.36528, -165.92268",
+        "type":"client"
 	},
 	{
 		"name": "Melvin Vega",
@@ -149,7 +167,8 @@
 		"email": "laoreet@Nullam.ca",
 		"birthday": "09/18/1994",
 		"address": "204-4170 Magna Av.",
-		"geolocation": "58.03213, -21.92195"
+		"geolocation": "58.03213, -21.92195",
+        "type":"client"
 	},
 	{
 		"name": "Tatyana Lloyd",
@@ -157,7 +176,8 @@
 		"email": "velit.in@ametmetusAliquam.ca",
 		"birthday": "12/08/1991",
 		"address": "Ap #314-6422 Scelerisque St.",
-		"geolocation": "-42.2797, -115.4143"
+		"geolocation": "-42.2797, -115.4143",
+        "type":"client"
 	},
 	{
 		"name": "Burke C. Mckay",
@@ -165,7 +185,8 @@
 		"email": "Nullam.ut@ipsumPhasellusvitae.edu",
 		"birthday": "08/23/1998",
 		"address": "Ap #626-1498 Ipsum Avenue",
-		"geolocation": "20.46956, -24.86223"
+		"geolocation": "20.46956, -24.86223",
+        "type":"client"
 	},
 	{
 		"name": "Neville F. Kane",
@@ -173,7 +194,8 @@
 		"email": "Ut.tincidunt.orci@luctuslobortisClass.co.uk",
 		"birthday": "01/15/1998",
 		"address": "413-6214 In, Rd.",
-		"geolocation": "-31.52053, -9.5044"
+		"geolocation": "-31.52053, -9.5044",
+        "type":"client"
 	},
 	{
 		"name": "Brenda West",
@@ -181,7 +203,8 @@
 		"email": "imperdiet@Integereulacus.edu",
 		"birthday": "07/11/1990",
 		"address": "6645 Fringilla. Av.",
-		"geolocation": "20.92398, 85.59051"
+		"geolocation": "20.92398, 85.59051",
+        "type":"client"
 	},
 	{
 		"name": "Ahmed Z. Ayers",
@@ -189,7 +212,8 @@
 		"email": "mattis.semper.dui@conguea.com",
 		"birthday": "11/12/1994",
 		"address": "P.O. Box 752, 3689 Nec, St.",
-		"geolocation": "73.36131, -62.80934"
+		"geolocation": "73.36131, -62.80934",
+        "type":"client"
 	},
 	{
 		"name": "Desiree J. Fleming",
@@ -197,7 +221,8 @@
 		"email": "gravida@diam.com",
 		"birthday": "11/29/1995",
 		"address": "Ap #754-793 Fringilla Ave",
-		"geolocation": "66.52471, -12.79679"
+		"geolocation": "66.52471, -12.79679",
+        "type":"client"
 	},
 	{
 		"name": "Reese Rose",
@@ -205,7 +230,8 @@
 		"email": "nisl.Maecenas@blanditenim.net",
 		"birthday": "11/23/1998",
 		"address": "Ap #523-3261 Enim, Rd.",
-		"geolocation": "-85.2004, 160.55453"
+		"geolocation": "-85.2004, 160.55453",
+        "type":"client"
 	},
 	{
 		"name": "Hall King",
@@ -213,7 +239,8 @@
 		"email": "Duis.dignissim@Maurismagna.net",
 		"birthday": "01/07/1996",
 		"address": "P.O. Box 289, 3760 Tempor Av.",
-		"geolocation": "-40.6863, -30.94042"
+		"geolocation": "-40.6863, -30.94042",
+        "type":"client"
 	},
 	{
 		"name": "Ronan Whitley",
@@ -221,7 +248,8 @@
 		"email": "Aliquam.gravida@Nulla.org",
 		"birthday": "03/28/1997",
 		"address": "Ap #924-3169 Risus. Avenue",
-		"geolocation": "69.2661, -50.41843"
+		"geolocation": "69.2661, -50.41843",
+        "type":"client"
 	},
 	{
 		"name": "Macy D. Wilson",
@@ -229,7 +257,8 @@
 		"email": "urna.Nullam@velit.ca",
 		"birthday": "05/13/1994",
 		"address": "Ap #419-1499 Egestas Street",
-		"geolocation": "73.13914, 66.23575"
+		"geolocation": "73.13914, 66.23575",
+        "type":"client"
 	},
 	{
 		"name": "Montana L. Meadows",
@@ -237,7 +266,8 @@
 		"email": "auctor.nunc@nibhenimgravida.ca",
 		"birthday": "12/23/1998",
 		"address": "P.O. Box 746, 7855 Nibh Rd.",
-		"geolocation": "7.04017, -99.40597"
+		"geolocation": "7.04017, -99.40597",
+        "type":"client"
 	},
 	{
 		"name": "Josiah Terry",
@@ -245,7 +275,8 @@
 		"email": "ipsum.ac@Sed.co.uk",
 		"birthday": "04/17/1998",
 		"address": "Ap #930-2843 Vehicula. Ave",
-		"geolocation": "-48.60844, 161.27069"
+		"geolocation": "-48.60844, 161.27069",
+        "type":"client"
 	},
 	{
 		"name": "Natalie Mclaughlin",
@@ -253,7 +284,8 @@
 		"email": "auctor@volutpatNulladignissim.org",
 		"birthday": "04/24/1994",
 		"address": "6342 Lorem. Rd.",
-		"geolocation": "-66.18583, -147.0609"
+		"geolocation": "-66.18583, -147.0609",
+        "type":"client"
 	},
 	{
 		"name": "Amanda Carter",
@@ -261,7 +293,8 @@
 		"email": "Donec.luctus@fringillacursuspurus.net",
 		"birthday": "04/25/1994",
 		"address": "5906 Sem Avenue",
-		"geolocation": "55.70602, 98.1852"
+		"geolocation": "55.70602, 98.1852",
+        "type":"client"
 	},
 	{
 		"name": "Joan S. Mcguire",
@@ -269,7 +302,8 @@
 		"email": "hendrerit.id@ut.org",
 		"birthday": "11/04/1992",
 		"address": "Ap #407-343 Rutrum St.",
-		"geolocation": "68.20048, 100.01738"
+		"geolocation": "68.20048, 100.01738",
+        "type":"client"
 	},
 	{
 		"name": "Charity Brady",
@@ -277,7 +311,8 @@
 		"email": "nibh@pedeNuncsed.ca",
 		"birthday": "06/06/1991",
 		"address": "Ap #847-4621 Et St.",
-		"geolocation": "-20.49755, -109.8604"
+		"geolocation": "-20.49755, -109.8604",
+        "type":"client"
 	},
 	{
 		"name": "Leilani Z. Hickman",
@@ -285,7 +320,8 @@
 		"email": "Donec.egestas.Duis@urnaNullam.com",
 		"birthday": "10/22/1995",
 		"address": "P.O. Box 929, 546 Donec Rd.",
-		"geolocation": "-65.78226, -117.37319"
+		"geolocation": "-65.78226, -117.37319",
+        "type":"client"
 	},
 	{
 		"name": "Wayne Hanson",
@@ -293,7 +329,8 @@
 		"email": "Sed.congue.elit@blanditNamnulla.co.uk",
 		"birthday": "09/10/1991",
 		"address": "4891 Posuere, Ave",
-		"geolocation": "16.88816, -108.98916"
+		"geolocation": "16.88816, -108.98916",
+        "type":"client"
 	},
 	{
 		"name": "Orla J. Bender",
@@ -301,7 +338,8 @@
 		"email": "laoreet.posuere.enim@Sedeunibh.edu",
 		"birthday": "04/05/1994",
 		"address": "Ap #263-235 Leo. Street",
-		"geolocation": "69.9086, -26.40601"
+		"geolocation": "69.9086, -26.40601",
+        "type":"client"
 	},
 	{
 		"name": "Akeem D. Hull",
@@ -309,7 +347,8 @@
 		"email": "dapibus.ligula.Aliquam@loremloremluctus.co.uk",
 		"birthday": "11/30/1997",
 		"address": "1645 Sed, Avenue",
-		"geolocation": "-52.84052, 26.33502"
+		"geolocation": "-52.84052, 26.33502",
+        "type":"client"
 	},
 	{
 		"name": "Holmes F. Hansen",
@@ -317,7 +356,8 @@
 		"email": "neque@Integervulputate.com",
 		"birthday": "07/08/1998",
 		"address": "Ap #684-8197 Pede. Street",
-		"geolocation": "-10.47276, -154.98371"
+		"geolocation": "-10.47276, -154.98371",
+        "type":"client"
 	},
 	{
 		"name": "Marah S. Rivers",
@@ -325,7 +365,8 @@
 		"email": "facilisis.Suspendisse@ridiculus.com",
 		"birthday": "12/22/1990",
 		"address": "P.O. Box 658, 5636 Odio. Rd.",
-		"geolocation": "-14.2775, 104.04598"
+		"geolocation": "-14.2775, 104.04598",
+        "type":"client"
 	},
 	{
 		"name": "Slade Potter",
@@ -333,7 +374,8 @@
 		"email": "Phasellus@Pellentesquehabitantmorbi.co.uk",
 		"birthday": "06/30/1997",
 		"address": "Ap #647-2525 Rutrum Av.",
-		"geolocation": "-11.72274, 74.99406"
+		"geolocation": "-11.72274, 74.99406",
+        "type":"client"
 	},
 	{
 		"name": "Yolanda Morris",
@@ -341,7 +383,8 @@
 		"email": "tellus@lacus.ca",
 		"birthday": "09/26/1999",
 		"address": "3820 Orci, Rd.",
-		"geolocation": "-33.09985, 19.60983"
+		"geolocation": "-33.09985, 19.60983",
+        "type":"client"
 	},
 	{
 		"name": "Walker S. Lowe",
@@ -349,7 +392,8 @@
 		"email": "In.condimentum.Donec@ipsumleo.ca",
 		"birthday": "03/26/1994",
 		"address": "P.O. Box 421, 2598 Sed St.",
-		"geolocation": "43.52501, -88.67206"
+		"geolocation": "43.52501, -88.67206",
+        "type":"client"
 	},
 	{
 		"name": "Xandra T. Morton",
@@ -357,7 +401,8 @@
 		"email": "mollis@laoreetipsumCurabitur.edu",
 		"birthday": "09/14/1995",
 		"address": "272-2336 Iaculis Av.",
-		"geolocation": "-47.71296, 67.32844"
+		"geolocation": "-47.71296, 67.32844",
+        "type":"client"
 	},
 	{
 		"name": "Germaine William",
@@ -365,7 +410,8 @@
 		"email": "malesuada@metusurnaconvallis.org",
 		"birthday": "02/05/1997",
 		"address": "869-7284 Magna. St.",
-		"geolocation": "37.83828, 81.24822"
+		"geolocation": "37.83828, 81.24822",
+        "type":"client"
 	},
 	{
 		"name": "Aspen X. Johnson",
@@ -373,7 +419,8 @@
 		"email": "tincidunt.pede@odioauctor.org",
 		"birthday": "09/23/1991",
 		"address": "Ap #327-6580 Gravida. Street",
-		"geolocation": "-74.28309, 31.78272"
+		"geolocation": "-74.28309, 31.78272",
+        "type":"client"
 	},
 	{
 		"name": "Jordan Carrillo",
@@ -381,7 +428,8 @@
 		"email": "orci.luctus.et@faucibusorciluctus.ca",
 		"birthday": "07/23/1993",
 		"address": "387-8964 Dolor Rd.",
-		"geolocation": "79.05534, -119.40833"
+		"geolocation": "79.05534, -119.40833",
+        "type":"client"
 	},
 	{
 		"name": "Venus Summers",
@@ -389,7 +437,8 @@
 		"email": "urna.Nunc@lacusEtiam.org",
 		"birthday": "05/19/1997",
 		"address": "Ap #717-1443 Eu, Av.",
-		"geolocation": "41.35019, 5.20125"
+		"geolocation": "41.35019, 5.20125",
+        "type":"client"
 	},
 	{
 		"name": "Britanni Edwards",
@@ -397,7 +446,8 @@
 		"email": "varius.ultrices@Nunc.edu",
 		"birthday": "08/07/1990",
 		"address": "627-6059 Gravida. Rd.",
-		"geolocation": "-76.01844, -94.13376"
+		"geolocation": "-76.01844, -94.13376",
+        "type":"client"
 	},
 	{
 		"name": "Perry W. Sellers",
@@ -405,7 +455,8 @@
 		"email": "Nulla.semper.tellus@Duis.org",
 		"birthday": "09/15/1999",
 		"address": "Ap #679-5588 Montes, Av.",
-		"geolocation": "-45.72565, -36.68234"
+		"geolocation": "-45.72565, -36.68234",
+        "type":"client"
 	},
 	{
 		"name": "Odysseus Powers",
@@ -413,7 +464,8 @@
 		"email": "nunc@accumsaninterdumlibero.org",
 		"birthday": "06/16/1991",
 		"address": "6793 Non, St.",
-		"geolocation": "39.10129, 138.31815"
+		"geolocation": "39.10129, 138.31815",
+        "type":"client"
 	},
 	{
 		"name": "Samson Abbott",
@@ -421,7 +473,8 @@
 		"email": "risus.Donec.nibh@porttitor.edu",
 		"birthday": "08/11/1998",
 		"address": "347-2913 Vitae Ave",
-		"geolocation": "47.82353, -139.54776"
+		"geolocation": "47.82353, -139.54776",
+        "type":"client"
 	},
 	{
 		"name": "Carla Coffey",
@@ -429,7 +482,8 @@
 		"email": "posuere.vulputate@diam.net",
 		"birthday": "07/27/1999",
 		"address": "2327 Integer St.",
-		"geolocation": "-3.45682, -117.71862"
+		"geolocation": "-3.45682, -117.71862",
+        "type":"client"
 	},
 	{
 		"name": "Tiger C. Tyson",
@@ -437,7 +491,8 @@
 		"email": "lobortis.nisi@blandit.org",
 		"birthday": "05/21/1997",
 		"address": "Ap #796-966 Tincidunt Av.",
-		"geolocation": "-37.58714, 173.17218"
+		"geolocation": "-37.58714, 173.17218",
+        "type":"client"
 	},
 	{
 		"name": "Hamish Harmon",
@@ -445,7 +500,8 @@
 		"email": "dictum.eleifend@purus.org",
 		"birthday": "02/17/1996",
 		"address": "P.O. Box 322, 3814 Sed St.",
-		"geolocation": "3.40548, 103.90613"
+		"geolocation": "3.40548, 103.90613",
+        "type":"client"
 	},
 	{
 		"name": "Virginia S. Berg",
@@ -453,7 +509,8 @@
 		"email": "Quisque@nibhsit.org",
 		"birthday": "06/18/1992",
 		"address": "Ap #211-8622 Nisl. Avenue",
-		"geolocation": "-42.6944, -2.55062"
+		"geolocation": "-42.6944, -2.55062",
+        "type":"client"
 	},
 	{
 		"name": "Lucian I. Clarke",
@@ -461,7 +518,8 @@
 		"email": "Sed.molestie@ametorci.ca",
 		"birthday": "11/20/1998",
 		"address": "9697 Donec St.",
-		"geolocation": "34.55036, -168.40181"
+		"geolocation": "34.55036, -168.40181",
+        "type":"client"
 	},
 	{
 		"name": "Barclay Y. Kennedy",
@@ -469,7 +527,8 @@
 		"email": "Phasellus@Vivamus.org",
 		"birthday": "04/24/1999",
 		"address": "305-4275 Adipiscing Avenue",
-		"geolocation": "87.91929, -92.69805"
+		"geolocation": "87.91929, -92.69805",
+        "type":"client"
 	},
 	{
 		"name": "Zenaida Q. Newton",
@@ -477,7 +536,8 @@
 		"email": "diam.Duis@sit.co.uk",
 		"birthday": "06/03/1993",
 		"address": "745-1284 Inceptos Road",
-		"geolocation": "-75.36831, -3.43691"
+		"geolocation": "-75.36831, -3.43691",
+        "type":"client"
 	},
 	{
 		"name": "Danielle Q. Barber",
@@ -485,7 +545,8 @@
 		"email": "diam@euismodest.ca",
 		"birthday": "02/09/1993",
 		"address": "P.O. Box 167, 1298 Turpis Road",
-		"geolocation": "74.39165, -148.7593"
+		"geolocation": "74.39165, -148.7593",
+        "type":"client"
 	},
 	{
 		"name": "Irene Larsen",
@@ -493,7 +554,8 @@
 		"email": "arcu@quamdignissimpharetra.org",
 		"birthday": "07/03/1992",
 		"address": "771-1574 Laoreet Ave",
-		"geolocation": "-8.21234, 104.55672"
+		"geolocation": "-8.21234, 104.55672",
+        "type":"client"
 	},
 	{
 		"name": "Deacon I. Hobbs",
@@ -501,7 +563,8 @@
 		"email": "eu.dolor@Nunccommodoauctor.com",
 		"birthday": "07/06/1993",
 		"address": "392-6280 Mauris St.",
-		"geolocation": "83.28379, -116.15555"
+		"geolocation": "83.28379, -116.15555",
+        "type":"client"
 	},
 	{
 		"name": "Hedy Fry",
@@ -509,7 +572,8 @@
 		"email": "non.quam@acturpis.net",
 		"birthday": "04/05/1995",
 		"address": "Ap #555-8797 A Rd.",
-		"geolocation": "-42.18995, 117.50601"
+		"geolocation": "-42.18995, 117.50601",
+        "type":"client"
 	},
 	{
 		"name": "Meghan Dennis",
@@ -517,7 +581,8 @@
 		"email": "eu@duisemper.ca",
 		"birthday": "05/05/1995",
 		"address": "P.O. Box 548, 1424 Nascetur Road",
-		"geolocation": "-6.82131, -118.79628"
+		"geolocation": "-6.82131, -118.79628",
+        "type":"client"
 	},
 	{
 		"name": "Renee Rosales",
@@ -525,7 +590,8 @@
 		"email": "primis.in.faucibus@vitae.net",
 		"birthday": "11/18/1992",
 		"address": "Ap #960-1957 Nibh. St.",
-		"geolocation": "-29.97695, 120.38729"
+		"geolocation": "-29.97695, 120.38729",
+        "type":"client"
 	},
 	{
 		"name": "Kelly Ball",
@@ -533,7 +599,8 @@
 		"email": "nascetur.ridiculus.mus@fringillacursus.ca",
 		"birthday": "12/27/1992",
 		"address": "P.O. Box 630, 1376 Leo. Avenue",
-		"geolocation": "19.86435, 136.84123"
+		"geolocation": "19.86435, 136.84123",
+        "type":"client"
 	},
 	{
 		"name": "Felicia Bennett",
@@ -541,7 +608,8 @@
 		"email": "faucibus.orci.luctus@eunequepellentesque.edu",
 		"birthday": "08/17/1997",
 		"address": "582-7093 Tincidunt, St.",
-		"geolocation": "-88.25716, 90.35804"
+		"geolocation": "-88.25716, 90.35804",
+        "type":"client"
 	},
 	{
 		"name": "Brooke Juarez",
@@ -549,7 +617,8 @@
 		"email": "eu@elitelitfermentum.ca",
 		"birthday": "07/18/1994",
 		"address": "P.O. Box 302, 1050 Eros. Av.",
-		"geolocation": "-64.7181, -63.41876"
+		"geolocation": "-64.7181, -63.41876",
+        "type":"client"
 	},
 	{
 		"name": "Robin H. Hawkins",
@@ -557,7 +626,8 @@
 		"email": "Quisque.tincidunt@Duis.com",
 		"birthday": "03/09/1999",
 		"address": "591-8909 Malesuada St.",
-		"geolocation": "-36.28892, -119.87369"
+		"geolocation": "-36.28892, -119.87369",
+        "type":"client"
 	},
 	{
 		"name": "Paki G. Gordon",
@@ -565,7 +635,8 @@
 		"email": "porttitor.scelerisque.neque@molestie.com",
 		"birthday": "01/12/1995",
 		"address": "733-6069 Sit Rd.",
-		"geolocation": "73.2056, 114.39804"
+		"geolocation": "73.2056, 114.39804",
+        "type":"client"
 	},
 	{
 		"name": "Tate Rosa",
@@ -573,7 +644,8 @@
 		"email": "sit.amet.risus@consequatpurus.co.uk",
 		"birthday": "12/09/1999",
 		"address": "855-1381 Orci. Ave",
-		"geolocation": "40.77036, 125.98241"
+		"geolocation": "40.77036, 125.98241",
+        "type":"client"
 	},
 	{
 		"name": "Derek K. Zamora",
@@ -581,7 +653,8 @@
 		"email": "netus.et@Cum.ca",
 		"birthday": "03/08/1999",
 		"address": "P.O. Box 285, 7721 Luctus Rd.",
-		"geolocation": "70.07112, -71.58541"
+		"geolocation": "70.07112, -71.58541",
+        "type":"client"
 	},
 	{
 		"name": "Leroy Wallace",
@@ -589,7 +662,8 @@
 		"email": "eleifend.vitae@placerat.co.uk",
 		"birthday": "02/11/1993",
 		"address": "389-2268 Non, St.",
-		"geolocation": "77.12476, 117.09326"
+		"geolocation": "77.12476, 117.09326",
+        "type":"client"
 	},
 	{
 		"name": "Glenna H. Moon",
@@ -597,7 +671,8 @@
 		"email": "vestibulum@liberodui.net",
 		"birthday": "09/04/1994",
 		"address": "P.O. Box 906, 9124 Tincidunt Road",
-		"geolocation": "72.00915, -19.56886"
+		"geolocation": "72.00915, -19.56886",
+        "type":"client"
 	},
 	{
 		"name": "John Whitehead",
@@ -605,7 +680,8 @@
 		"email": "aliquam@aodio.edu",
 		"birthday": "06/08/1994",
 		"address": "5023 Mi. Av.",
-		"geolocation": "-3.96776, -52.90131"
+		"geolocation": "-3.96776, -52.90131",
+        "type":"client"
 	},
 	{
 		"name": "Stephen Q. Cline",
@@ -613,7 +689,8 @@
 		"email": "sed.sapien.Nunc@Fuscealiquamenim.co.uk",
 		"birthday": "11/04/1993",
 		"address": "Ap #546-8777 Sed St.",
-		"geolocation": "-15.24606, -130.96343"
+		"geolocation": "-15.24606, -130.96343",
+        "type":"client"
 	},
 	{
 		"name": "Channing V. Odom",
@@ -621,7 +698,8 @@
 		"email": "nec.quam@semegetmassa.net",
 		"birthday": "06/18/1997",
 		"address": "1134 Amet Street",
-		"geolocation": "-67.72255, -107.00747"
+		"geolocation": "-67.72255, -107.00747",
+        "type":"client"
 	},
 	{
 		"name": "Jarrod O. Giles",
@@ -629,7 +707,8 @@
 		"email": "Etiam.ligula.tortor@vehicula.edu",
 		"birthday": "11/06/1996",
 		"address": "P.O. Box 394, 8554 Est St.",
-		"geolocation": "-16.47513, -162.30352"
+		"geolocation": "-16.47513, -162.30352",
+        "type":"client"
 	},
 	{
 		"name": "Louis Q. Willis",
@@ -637,7 +716,8 @@
 		"email": "nunc.sed.libero@lobortis.ca",
 		"birthday": "01/12/1995",
 		"address": "P.O. Box 657, 4776 Sed Av.",
-		"geolocation": "-77.59067, 58.24703"
+		"geolocation": "-77.59067, 58.24703",
+        "type":"client"
 	},
 	{
 		"name": "Katell N. Boyd",
@@ -645,7 +725,8 @@
 		"email": "dolor.Nulla.semper@risus.co.uk",
 		"birthday": "08/21/1992",
 		"address": "329-726 Massa. Road",
-		"geolocation": "87.36657, 171.93848"
+		"geolocation": "87.36657, 171.93848",
+        "type":"client"
 	},
 	{
 		"name": "Wyatt Tucker",
@@ -653,7 +734,8 @@
 		"email": "dis.parturient.montes@sitametconsectetuer.co.uk",
 		"birthday": "11/03/1997",
 		"address": "P.O. Box 558, 1234 Iaculis Street",
-		"geolocation": "-62.15418, 92.56897"
+		"geolocation": "-62.15418, 92.56897",
+        "type":"client"
 	},
 	{
 		"name": "Bert M. Compton",
@@ -661,7 +743,8 @@
 		"email": "Nulla@facilisisSuspendisse.org",
 		"birthday": "08/08/1999",
 		"address": "P.O. Box 674, 5943 Ut St.",
-		"geolocation": "-10.76017, -137.86436"
+		"geolocation": "-10.76017, -137.86436",
+        "type":"client"
 	},
 	{
 		"name": "Zenaida L. Roth",
@@ -669,7 +752,8 @@
 		"email": "Duis@penatibuset.co.uk",
 		"birthday": "07/02/1993",
 		"address": "109-8373 Sagittis. Ave",
-		"geolocation": "-36.64359, -76.43817"
+		"geolocation": "-36.64359, -76.43817",
+        "type":"client"
 	},
 	{
 		"name": "Harding Madden",
@@ -677,7 +761,8 @@
 		"email": "molestie.dapibus.ligula@massa.com",
 		"birthday": "05/16/1995",
 		"address": "Ap #589-2898 Non St.",
-		"geolocation": "-32.50772, 51.79367"
+		"geolocation": "-32.50772, 51.79367",
+        "type":"client"
 	},
 	{
 		"name": "Paloma P. Becker",
@@ -685,7 +770,8 @@
 		"email": "suscipit.est@Lorem.org",
 		"birthday": "04/04/1993",
 		"address": "732-8013 Dictum St.",
-		"geolocation": "-17.63868, 137.81557"
+		"geolocation": "-17.63868, 137.81557",
+        "type":"client"
 	},
 	{
 		"name": "Aquila Hill",
@@ -693,7 +779,8 @@
 		"email": "mi.lorem.vehicula@cursus.co.uk",
 		"birthday": "03/11/1990",
 		"address": "9699 Leo, Road",
-		"geolocation": "50.51838, -174.40269"
+		"geolocation": "50.51838, -174.40269",
+        "type":"client"
 	},
 	{
 		"name": "Kylan A. Dejesus",
@@ -701,7 +788,8 @@
 		"email": "semper@id.ca",
 		"birthday": "09/23/1999",
 		"address": "Ap #415-3850 Adipiscing Rd.",
-		"geolocation": "-33.52455, -54.28737"
+		"geolocation": "-33.52455, -54.28737",
+        "type":"client"
 	},
 	{
 		"name": "Ignatius J. Briggs",
@@ -709,7 +797,8 @@
 		"email": "ultricies.ligula.Nullam@vehicularisus.co.uk",
 		"birthday": "08/24/1996",
 		"address": "Ap #380-6939 A Rd.",
-		"geolocation": "6.26254, -122.83993"
+		"geolocation": "6.26254, -122.83993",
+        "type":"client"
 	},
 	{
 		"name": "Samantha P. Clayton",
@@ -717,7 +806,8 @@
 		"email": "Vestibulum@aliquet.ca",
 		"birthday": "12/29/1996",
 		"address": "788-1049 Auctor, Street",
-		"geolocation": "-23.55813, 97.30491"
+		"geolocation": "-23.55813, 97.30491",
+        "type":"client"
 	},
 	{
 		"name": "Maya T. Ware",
@@ -725,7 +815,8 @@
 		"email": "tempor@eget.edu",
 		"birthday": "08/04/1995",
 		"address": "238-319 Arcu Road",
-		"geolocation": "62.03541, -139.25985"
+		"geolocation": "62.03541, -139.25985",
+        "type":"client"
 	},
 	{
 		"name": "Phillip F. Goodwin",
@@ -733,7 +824,8 @@
 		"email": "mi.pede@utaliquam.ca",
 		"birthday": "04/05/1998",
 		"address": "P.O. Box 370, 6889 Nisl. Road",
-		"geolocation": "-65.67721, -131.56619"
+		"geolocation": "-65.67721, -131.56619",
+        "type":"client"
 	},
 	{
 		"name": "Gage Barr",
@@ -741,7 +833,8 @@
 		"email": "libero.mauris@nuncInat.net",
 		"birthday": "04/24/1997",
 		"address": "P.O. Box 391, 9850 Arcu. Road",
-		"geolocation": "-64.85773, 65.23015"
+		"geolocation": "-64.85773, 65.23015",
+        "type":"client"
 	},
 	{
 		"name": "Gray M. Sharp",
@@ -749,7 +842,8 @@
 		"email": "Aliquam@in.co.uk",
 		"birthday": "06/29/1994",
 		"address": "P.O. Box 103, 4878 Ornare Rd.",
-		"geolocation": "75.9966, -122.59198"
+		"geolocation": "75.9966, -122.59198",
+        "type":"client"
 	},
 	{
 		"name": "Audra V. Foley",
@@ -757,7 +851,8 @@
 		"email": "libero.et@nuncullamcorpereu.com",
 		"birthday": "01/31/1995",
 		"address": "199-9492 Risus. St.",
-		"geolocation": "-53.34346, 31.05886"
+		"geolocation": "-53.34346, 31.05886",
+        "type":"client"
 	},
 	{
 		"name": "Diana K. Wooten",
@@ -765,7 +860,8 @@
 		"email": "rutrum.urna@tinciduntvehicularisus.net",
 		"birthday": "04/06/1994",
 		"address": "188 Aenean Av.",
-		"geolocation": "10.14543, 12.02978"
+		"geolocation": "10.14543, 12.02978",
+        "type":"client"
 	},
 	{
 		"name": "Melinda W. Holmes",
@@ -773,7 +869,8 @@
 		"email": "diam@tempordiam.net",
 		"birthday": "04/22/1997",
 		"address": "Ap #473-1233 Tincidunt Av.",
-		"geolocation": "24.65079, -29.74232"
+		"geolocation": "24.65079, -29.74232",
+        "type":"client"
 	},
 	{
 		"name": "Chava Rivera",
@@ -781,7 +878,8 @@
 		"email": "molestie.tortor@maurisSuspendissealiquet.net",
 		"birthday": "02/09/1996",
 		"address": "625-9881 Primis St.",
-		"geolocation": "-17.69205, 29.65975"
+		"geolocation": "-17.69205, 29.65975",
+        "type":"client"
 	},
 	{
 		"name": "Henry Z. Bond",
@@ -789,7 +887,8 @@
 		"email": "leo.Morbi@magna.edu",
 		"birthday": "12/18/1996",
 		"address": "9953 Magna. Avenue",
-		"geolocation": "15.19982, 43.39939"
+		"geolocation": "15.19982, 43.39939",
+        "type":"client"
 	},
 	{
 		"name": "Knox Durham",
@@ -797,6 +896,7 @@
 		"email": "dui.Cum.sociis@dis.co.uk",
 		"birthday": "04/05/1996",
 		"address": "500-4764 Tincidunt Rd.",
-		"geolocation": "-6.10373, -93.80722"
+		"geolocation": "-6.10373, -93.80722",
+        "type":"client"
 	}
 ]
