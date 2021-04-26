@@ -1,0 +1,33 @@
+{
+    "type":"copy",
+    "state": "prestamo",
+    "date_state":"2021-10-22",
+    "movie": {
+      "id": "e07ef57e6222bd08c4f4e4e43a0017b1",
+      "titles": [
+        {
+          "language": "english",
+          "title": "Nyckeln till frihet"
+        },
+        {
+          "language": "original",
+          "title": "The Shawshank Redemption"
+        }
+      ],
+      "year": "1994",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "duration": 142,
+      "releaseDate": "1995-03-03",
+      "items": 10,
+      "price": 20,
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+      ],
+      "type": "movie"
+    }
+  }
