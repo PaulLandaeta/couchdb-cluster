@@ -10,13 +10,13 @@ def read_movies():
     return movies
 
 
-def store_movies():
+def store_copies():
     movies = read_movies()
     for movie in movies:
+        #TODO: create random number of copies
         copy = {
             type: "copy",
-            date_state: "2021-10-22",
-            state: "prestamp",
+            status: "available",
             movie: movie
         }
         requests.post(cons.URL, json=copy, auth=HTTPBasicAuth(

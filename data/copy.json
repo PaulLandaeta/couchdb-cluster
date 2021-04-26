@@ -1,7 +1,7 @@
 {
     "type":"copy",
-    "state": "prestamo",
-    "date_state":"2021-10-22",
+    "status": "prestamo",
+    "date_status":"2021-10-22",
     "movie": {
       "id": "e07ef57e6222bd08c4f4e4e43a0017b1",
       "titles": [
