@@ -6,10 +6,10 @@ from prices import store_prices
 
 
 def run():
-    #store_clients()
-    #store_movies()
-    #store_copies()
-    #store_retanls()
+    store_clients()
+    store_movies()
+    store_copies()
+    store_retanls()
     store_prices()
 
 
