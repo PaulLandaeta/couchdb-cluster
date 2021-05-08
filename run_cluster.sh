@@ -19,7 +19,7 @@ docker run -itd -p 25984:5984 -p 25986:5986 --name=couchdb2 \
 -e COUCHDB_USER=admin -e COUCHDB_PASSWORD=123456 \
 couchdb:latest
 
-create the bridge 
+# create the bridge 
 
 docker network create -d bridge --subnet 172.25.0.0/16 isolated_nw
 
@@ -31,5 +31,5 @@ isolated_nw couchdb0
 docker network connect --alias couchdb-1.local.com \
 isolated_nw couchdb1
 
-
-
+docker network connect --alias couchdb-2.local.com \
+isolated_nw couchdb2

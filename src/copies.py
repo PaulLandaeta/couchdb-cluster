@@ -15,10 +15,18 @@ def store_copies():
     for movie in movies:
         #TODO: create random number of copies
         copy = {
-            type: "copy",
-            status: "available",
-            movie: movie
+            "type": "copy",
+            "status": "available",
+            "movie": movie
         }
+        requests.post(cons.URL, json=copy, auth=HTTPBasicAuth(
+            cons.USERNAME, cons.PASSWORD))
+        requests.post(cons.URL, json=copy, auth=HTTPBasicAuth(
+            cons.USERNAME, cons.PASSWORD))
+        requests.post(cons.URL, json=copy, auth=HTTPBasicAuth(
+            cons.USERNAME, cons.PASSWORD))
+        requests.post(cons.URL, json=copy, auth=HTTPBasicAuth(
+            cons.USERNAME, cons.PASSWORD))
         requests.post(cons.URL, json=copy, auth=HTTPBasicAuth(
             cons.USERNAME, cons.PASSWORD))
     print('Copies Loaded!!!')

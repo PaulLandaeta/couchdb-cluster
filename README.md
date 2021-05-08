@@ -1,1 +1,1 @@
-# couchdb-cluster
+# CouchDB-cluster

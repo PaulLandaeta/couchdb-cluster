@@ -17,6 +17,6 @@ def read_movies():
 def store_movies():
     movies = read_movies()
     for movie in movies:
-        movie.update({type: "movie"})
+        movie.update({"type": "movie"})
         requests.post(URL, json=movie, auth=HTTPBasicAuth(USERNAME, PASSWORD))
     print('Movies Loaded!!!')

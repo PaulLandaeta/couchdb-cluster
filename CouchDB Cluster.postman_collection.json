@@ -1,0 +1,206 @@
+{
+	"info": {
+		"_postman_id": "31a84238-de25-4114-b797-6a184f2e2017",
+		"name": "CouchDB Cluster",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "CreateDB",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5984/club_de_videos",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5984",
+					"path": [
+						"club_de_videos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Video",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"titles\": [\n    {\n      \"language\": \"english\",\n      \"title\": \"Nyckeln till frihet\"\n    },\n    {\n      \"language\": \"original\",\n      \"title\": \"The Shawshank Redemption\"\n    }\n  ],\n  \"year\": \"1994\",\n  \"genres\": [\n    \"Crime\",\n    \"Drama\"\n  ],\n  \"duration\": 142,\n  \"releaseDate\": \"1995-03-03\",\n  \"items\": 10,\n  \"price\": 20,\n  \"actors\": [\n    \"Tim Robbins\",\n    \"Morgan Freeman\",\n    \"Bob Gunton\"\n  ],\n  \"type\": \"movie\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5984/club_de_videos/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5984",
+					"path": [
+						"club_de_videos",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Video Copy",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"type\":\"copy\",\n  \"state\": \"prestamo\",\n  \"date_state\":\"2021-10-22\",\n  \"movie\": {\n    \"id\": \"e07ef57e6222bd08c4f4e4e43a0017b1\",\n    \"titles\": [\n      {\n        \"language\": \"english\",\n        \"title\": \"Nyckeln till frihet\"\n      },\n      {\n        \"language\": \"original\",\n        \"title\": \"The Shawshank Redemption\"\n      }\n    ],\n    \"year\": \"1994\",\n    \"genres\": [\n      \"Crime\",\n      \"Drama\"\n    ],\n    \"duration\": 142,\n    \"releaseDate\": \"1995-03-03\",\n    \"items\": 10,\n    \"price\": 20,\n    \"actors\": [\n      \"Tim Robbins\",\n      \"Morgan Freeman\",\n      \"Bob Gunton\"\n    ],\n    \"type\": \"movie\"\n  }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5984/club_de_videos/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5984",
+					"path": [
+						"club_de_videos",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Client",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"Joy Flores\",\n    \"cellphone\": \"(799) 517-4073\",\n    \"email\": \"magna.Sed.eu@eget.ca\",\n    \"birthday\": \"07/29/1994\",\n    \"address\": \"588-6242 Sapien, Street\",\n    \"geolocation\": \"47.68042, -44.5549\",\n    \"blocked\": {\n        \"date\": \"07/29/1994\",\n        \"reason\": \"late recieved\"\n    },\n    \"type\": \"client\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5984/club_de_videos/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5984",
+					"path": [
+						"club_de_videos",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create views",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"language\": \"javascript\",\n    \"views\": {\n        \"clients\": {\n             \"map\": \"function(doc) { if(doc.type == 'client') { emit(doc.id, doc) } }\"\n        },\n        \"copies\": {\n                \"map\": \"function(doc) { if(doc.type == 'copy') { emit(doc.id, doc) } }\"\n        },\n        \"movies\": {\n                \"map\": \"function(doc) { if(doc.type == 'movie') { emit(doc.id, doc) } }\"\n        },\n        \"rentals\": {\n                \"map\": \"function(doc) { if(doc.type == 'rental') { emit(doc.id, doc) } }\"\n        },\n        \"prices\": {\n                \"map\": \"function(doc) { if(doc.type == 'price') { emit(doc.id, doc) } }\"\n        }\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5984/club_de_videos/_design/videos",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5984",
+					"path": [
+						"club_de_videos",
+						"_design",
+						"videos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get all Documents",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5984/club_de_videos/_design/videos/_view/prices",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5984",
+					"path": [
+						"club_de_videos",
+						"_design",
+						"videos",
+						"_view",
+						"prices"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "basic",
+		"basic": [
+			{
+				"key": "password",
+				"value": "123456",
+				"type": "string"
+			},
+			{
+				"key": "username",
+				"value": "admin",
+				"type": "string"
+			},
+			{
+				"key": "showPassword",
+				"value": false,
+				"type": "boolean"
+			}
+		]
+	}
+}
